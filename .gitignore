@@ -1,0 +1,17 @@
+# Source material (originals of the web assets in assets/img)
+*.heic
+*.HEIC
+/debara/
+/laconic/
+/sceneteract/
+/beyondprompts/
+.DS_Store
+/3DS_*.png
+/logo-x-*.png
+/*.avif
+
+# Resume source (the compiled assets/cv.pdf is published)
+/resume.tex
+
+# Local maintenance notes
+/NOTES.md
